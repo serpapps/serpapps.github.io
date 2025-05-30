@@ -1,0 +1,56 @@
+{
+  "games": [
+    {
+      "id": "snake",
+      "name": "Snake",
+      "description": "Classic snake game - eat food and grow longer!",
+      "author": "SerpTest",
+      "version": "1.0.0",
+      "category": "arcade",
+      "tags": ["classic", "arcade", "single-player"],
+      "repository": "https://github.com/serptest/snake-game",
+      "gameUrl": "https://serptest.github.io/snake-game/",
+      "npmPackage": "github:serptest/snake-game",
+      "thumbnail": "https://raw.githubusercontent.com/serptest/images/main/thumbnails/snake-thumbnail.png",
+      "featured": true,
+      "releaseDate": "2025-05-30"
+    },
+    {
+      "id": "tetris",
+      "name": "Tetris",
+      "description": "Classic block-stacking puzzle game!",
+      "author": "SerpTest",
+      "version": "1.0.0",
+      "category": "puzzle",
+      "tags": ["classic", "puzzle", "single-player"],
+      "repository": "https://github.com/serptest/tetris-game",
+      "gameUrl": "https://serptest.github.io/tetris-game/",
+      "npmPackage": "github:serptest/tetris-game",
+      "thumbnail": "https://raw.githubusercontent.com/serptest/images/main/thumbnails/tetris-thumbnail.png",
+      "featured": true,
+      "releaseDate": "2025-05-30"
+    }
+  ],
+  "categories": [
+    {
+      "id": "arcade",
+      "name": "Arcade",
+      "description": "Classic arcade-style games"
+    },
+    {
+      "id": "puzzle",
+      "name": "Puzzle",
+      "description": "Brain-teasing puzzle games"
+    },
+    {
+      "id": "strategy",
+      "name": "Strategy", 
+      "description": "Strategic thinking games"
+    },
+    {
+      "id": "action",
+      "name": "Action",
+      "description": "Fast-paced action games"
+    }
+  ]
+}

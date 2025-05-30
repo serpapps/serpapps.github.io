@@ -1,0 +1,210 @@
+{
+  "content": [
+    {
+      "id": "snake-game",
+      "type": "game",
+      "title": "Snake",
+      "description": "Classic snake game - eat food and grow longer!",
+      "slug": "snake",
+      "featured": true,
+      "tags": ["classic", "arcade", "single-player", "retro"],
+      "category": "arcade",
+      "difficulty": "easy",
+      "players": "1",
+      "gameUrl": "https://serptest.github.io/snake-game/",
+      "thumbnail": "https://raw.githubusercontent.com/serptest/images/main/thumbnails/snake-thumbnail.png",
+      "controls": {
+        "keyboard": {
+          "Arrow Keys": "Move snake",
+          "Space": "Pause game"
+        }
+      },
+      "metadata": {
+        "createdAt": "2025-05-30T00:00:00Z",
+        "updatedAt": "2025-05-30T00:00:00Z",
+        "author": "SerpTest",
+        "version": "1.0.0"
+      },
+      "seo": {
+        "title": "Play Snake Game Online - Classic Arcade Game",
+        "description": "Play the classic Snake game online for free. Control the snake, eat food, and grow longer in this timeless arcade game.",
+        "keywords": ["snake game", "classic arcade", "retro game", "online game"]
+      }
+    },
+    {
+      "id": "tetris-game",
+      "type": "game",
+      "title": "Tetris",
+      "description": "Classic block-stacking puzzle game!",
+      "slug": "tetris",
+      "featured": true,
+      "tags": ["classic", "puzzle", "single-player", "blocks"],
+      "category": "puzzle",
+      "difficulty": "medium",
+      "players": "1",
+      "gameUrl": "https://serptest.github.io/tetris-game/",
+      "thumbnail": "https://raw.githubusercontent.com/serptest/images/main/thumbnails/tetris-thumbnail.png",
+      "controls": {
+        "keyboard": {
+          "Arrow Left/Right": "Move piece",
+          "Arrow Down": "Soft drop",
+          "Arrow Up": "Rotate",
+          "Space": "Hard drop"
+        }
+      },
+      "metadata": {
+        "createdAt": "2025-05-30T00:00:00Z",
+        "updatedAt": "2025-05-30T00:00:00Z",
+        "author": "SerpTest",
+        "version": "1.0.0"
+      },
+      "seo": {
+        "title": "Play Tetris Online - Classic Puzzle Game",
+        "description": "Play Tetris online for free. Stack blocks, clear lines, and challenge yourself in this iconic puzzle game.",
+        "keywords": ["tetris", "puzzle game", "block game", "classic game"]
+      }
+    },
+    {
+      "id": "code-formatter",
+      "type": "tool",
+      "title": "Code Formatter",
+      "description": "Format and beautify your code in multiple languages",
+      "slug": "code-formatter",
+      "featured": true,
+      "tags": ["development", "formatting", "productivity"],
+      "category": "development",
+      "pricing": "free",
+      "platform": "web",
+      "toolUrl": "https://example.com/code-formatter",
+      "icon": "🎨",
+      "features": [
+        "Support for 20+ languages",
+        "Customizable formatting rules",
+        "Real-time preview",
+        "Export formatted code"
+      ],
+      "metadata": {
+        "createdAt": "2025-05-30T00:00:00Z",
+        "updatedAt": "2025-05-30T00:00:00Z",
+        "author": "SerpTools",
+        "version": "2.0.0"
+      },
+      "seo": {
+        "title": "Code Formatter - Beautify Your Code Online",
+        "description": "Free online code formatter supporting multiple programming languages. Format, beautify, and clean your code instantly.",
+        "keywords": ["code formatter", "beautifier", "programming tool"]
+      }
+    },
+    {
+      "id": "color-picker",
+      "type": "tool",
+      "title": "Color Picker",
+      "description": "Advanced color picker with palette generation",
+      "slug": "color-picker",
+      "featured": false,
+      "tags": ["design", "colors", "utility"],
+      "category": "design",
+      "pricing": "free",
+      "platform": "web",
+      "toolUrl": "https://example.com/color-picker",
+      "icon": "🎨",
+      "features": [
+        "HEX, RGB, HSL support",
+        "Color palette generation",
+        "Accessibility checker",
+        "Export palettes"
+      ],
+      "metadata": {
+        "createdAt": "2025-05-30T00:00:00Z",
+        "updatedAt": "2025-05-30T00:00:00Z",
+        "author": "SerpTools",
+        "version": "1.5.0"
+      }
+    },
+    {
+      "id": "image-compressor",
+      "type": "tool",
+      "title": "Image Compressor",
+      "description": "Reduce image file sizes while maintaining quality - works entirely in your browser",
+      "slug": "image-compressor",
+      "featured": true,
+      "tags": ["utility", "images", "compression", "optimization"],
+      "category": "utility",
+      "pricing": "free",
+      "platform": "web",
+      "toolUrl": "/tools/image-compressor/index.html",
+      "icon": "🖼️",
+      "features": [
+        "Support for JPG, PNG, and WebP formats",
+        "Adjustable compression quality (10-100%)",
+        "Real-time file size comparison",
+        "Format conversion between supported types",
+        "Works entirely in browser - no upload required",
+        "Drag and drop support",
+        "Preview original and compressed images"
+      ],
+      "metadata": {
+        "createdAt": "2025-05-30T00:00:00Z",
+        "updatedAt": "2025-05-30T00:00:00Z",
+        "author": "SerpTools",
+        "version": "1.0.0"
+      },
+      "seo": {
+        "title": "Image Compressor - Reduce Image File Size Online",
+        "description": "Free online image compressor. Reduce JPG, PNG, and WebP file sizes while maintaining quality. Works entirely in your browser with no uploads.",
+        "keywords": ["image compressor", "reduce file size", "compress jpg", "compress png", "image optimization"]
+      }
+    }
+  ],
+  "categories": {
+    "game": [
+      {
+        "value": "arcade",
+        "label": "Arcade",
+        "description": "Classic arcade-style games"
+      },
+      {
+        "value": "puzzle",
+        "label": "Puzzle",
+        "description": "Brain-teasing puzzle games"
+      },
+      {
+        "value": "strategy",
+        "label": "Strategy",
+        "description": "Strategic thinking games"
+      },
+      {
+        "value": "action",
+        "label": "Action",
+        "description": "Fast-paced action games"
+      },
+      {
+        "value": "adventure",
+        "label": "Adventure",
+        "description": "Exploration and story-driven games"
+      }
+    ],
+    "tool": [
+      {
+        "value": "productivity",
+        "label": "Productivity",
+        "description": "Tools to boost your productivity"
+      },
+      {
+        "value": "development",
+        "label": "Development",
+        "description": "Developer tools and utilities"
+      },
+      {
+        "value": "design",
+        "label": "Design",
+        "description": "Design and creative tools"
+      },
+      {
+        "value": "utility",
+        "label": "Utility",
+        "description": "General purpose utilities"
+      }
+    ]
+  }
+}
