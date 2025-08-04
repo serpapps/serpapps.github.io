@@ -1,24 +1,6 @@
 # README
 
-This is a nextjs project to build a website on github pages for serpapps.github.io.
+This is a nextjs project to build a website template on github pages for serpapps.github.io using SERP Blocks
 
-The goal is to have a SSG site with a page for each one of our 'apps'.
-
-## Sitemap
-
-```
-/
-/apps
-/apps/[slug]
-```
-
-## Technology
-
-- nextjs
-- component library: shadnUI
-- blocks library: blocks.serp.co (built on top of shadcnUI)
-
-
-## Starters
-
-- Use this config for our gh pages: https://github.com/nextjs/deploy-github-pages
+- Framework: next.js
+- Component Library: [SERP Blocks](https://serp.ly/serp-blocks)
